@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yana Kovtun</h1>
-<h3 align="center">A beginner Front-end developer from Kyiv, Ukraine</h3>
+<h3 align="center">A Front-end developer from Kyiv, Ukraine</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
